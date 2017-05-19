@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotoGP</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_motorcycles">Motorcycles</string>
+    <string name="title_activity_motorcycles">motorcycles</string>
+</resources>
